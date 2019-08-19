@@ -1,0 +1,12 @@
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\bin\Debug\MouseCoord.exe.config
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\bin\Debug\MouseCoord.exe
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\bin\Debug\MouseCoord.pdb
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\bin\Debug\MouseCoord.xml
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\obj\Debug\MouseCoord.vbprojAssemblyReference.cache
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\obj\Debug\MouseCoord.Form1.resources
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\obj\Debug\MouseCoord.Resources.resources
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\obj\Debug\MouseCoord.vbproj.GenerateResource.cache
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\obj\Debug\MouseCoord.vbproj.CoreCompileInputs.cache
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\obj\Debug\MouseCoord.exe
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\obj\Debug\MouseCoord.xml
+C:\Users\Sunshine8\source\repos\MouseCoord\MouseCoord\obj\Debug\MouseCoord.pdb
